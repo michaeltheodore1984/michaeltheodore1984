@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @michaeltheodore1984
+- 👋 Hi, I'm Mike, nice to meet you!
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning Android development with Kotlin
+- 🌱 I’m currently looking for work as a backend developer
 - 💞️ I’m looking to collaborate on pretty much anything
-- 📫 How to reach me on Discord: Mike Theodore#5108
+- 📫 How to reach me on Discord: theodore#5108
 
 <!---
 michaeltheodore1984/michaeltheodore1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

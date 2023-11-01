@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Mike, nice to meet you!
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently looking for work as a backend developer
+- 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me on Discord: theodore#5108
 
